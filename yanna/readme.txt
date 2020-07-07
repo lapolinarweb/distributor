@@ -1,4 +1,5 @@
 === Distributor ===
+"COVID19"
 Contributors: 10up
 Tags: content, distribution, syndication, management,
 Requires at least: 4.7
